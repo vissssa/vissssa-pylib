@@ -1,0 +1,5 @@
+-i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
+pymongo>=3.8.0
+bce-python-sdk>=0.8.8
+minio
+tenacity
