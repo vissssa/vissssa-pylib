@@ -3,4 +3,4 @@
 免得遗忘了，多次重复造轮子
 
 #### [1. bos](client/bos_client.py)
-#### [. minio](client/minio_client.py)
+#### [2. minio](client/minio_client.py)
